@@ -1,0 +1,3 @@
+Most Calories: 834.36,
+Average Fat: 17.01532258064516,
+All menu items with 'Lava': ('Cheese Lava Burger', 'Chicken Cheese Lava Burger')
